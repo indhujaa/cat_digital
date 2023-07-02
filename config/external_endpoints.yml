@@ -1,0 +1,13 @@
+default: &default
+  third_party_endpoints:
+    endpoint_1: "https://webhook.site/ea99c8a0-b6b9-47d6-9931-5eed2cd834f2"
+    endpoint_2: "https://webhook.site/ea99c8a0-b6b9-47d6-9931-5eed2cd834f2"
+
+development:
+  <<: *default
+
+test:
+  <<: *default
+
+production:
+  <<: *default

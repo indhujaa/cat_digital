@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  email: MyString
+  mobile_no: MyString
+  dob: 2023-07-02
+  height: 1.5
+  city: MyString
+  state: MyString
+  country: MyString
+
+two:
+  name: MyString
+  email: MyString
+  mobile_no: MyString
+  dob: 2023-07-02
+  height: 1.5
+  city: MyString
+  state: MyString
+  country: MyString
